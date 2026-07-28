@@ -1,2 +1,2 @@
 # Progetto-reti
-Questo progetto sarà la base del progetto di reti e sistemi distibuiti
+Questo git-hub sarà la base del progetto di reti e sistemi distibuiti
