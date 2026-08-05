@@ -41,7 +41,7 @@ SecureChat/
 └── README.md
 ```
 
-`registry.c` contiene l'intera logica applicativa (nickname, stanze, framing, broadcast) ed è identico per entrambe le varianti del server: cambia solo il meccanismo con cui il server scopre quali socket sono pronte. `tls.c` isola allo stesso modo la parte "amministrativa" di OpenSSL (creazione del contesto, caricamento di certificato e chiave) dai main loop, che si limitano a invocarla. `build/` e `bin/` non vanno versionati: li ricrea `make` ad ogni compilazione.
+`registry.c` contiene l'intera logica applicativa (nickname, stanze, framing, broadcast) ed è identico per entrambe le varianti del server: cambia solo il meccanismo con cui il server scopre quali socket sono pronte. `tls.c` isola allo stesso modo la parte amministrativa di OpenSSL (creazione del contesto, caricamento di certificato e chiave) dai main loop, che si limitano a invocarla. `build/` e `bin/` non vanno versionati: li ricrea `make` ad ogni compilazione.
 
 ---
 
