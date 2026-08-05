@@ -94,8 +94,6 @@ oppure
 === SecureChat (select) su porta 8080 ===
 ```
 
-⚠️ **Nota:** questo terminale è il *server*, non un client — non è un posto dove scrivere messaggi di chat. Serve un client vero (vedi sotto).
-
 ---
 
 ## Avvio dei client
