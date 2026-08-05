@@ -2,7 +2,7 @@
 
 SecureChat è un'applicazione di chat multiutente in C, con connessioni TCP concorrenti gestite **in un singolo thread** tramite `select()` o `epoll()`, e canale cifrato con **TLS** (OpenSSL).
 
-Nato come progetto per il corso di Laboratorio di Reti e Sistemi Distribuiti Mod. B della Università degli Studi di Messina — poi esteso oltre i requisiti della consegna: due implementazioni equivalenti del multiplexing, un client dedicato, e la cifratura TLS del canale.
+Nato come progetto per il corso di Laboratorio di Reti e Sistemi Distribuiti Mod. B della Università degli Studi di Messina, poi esteso oltre i requisiti della consegna: due implementazioni equivalenti del multiplexing, un client dedicato, e la cifratura TLS del canale.
 
 ---
 
