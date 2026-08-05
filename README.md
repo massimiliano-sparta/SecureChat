@@ -187,4 +187,4 @@ Un client in una stanza diversa (es. `/join tennis`) non riceve nulla. Premendo 
 
 ## Autori
 
-Massimiliano Spartà (566093) e Simone Adamo (567317)
+Massimiliano Spartà (matricola 566093) e Simone Adamo (matricola 567317)
