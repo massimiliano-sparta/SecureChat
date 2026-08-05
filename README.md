@@ -73,8 +73,7 @@ Il server ha bisogno di un certificato e di una chiave privata. Generateli in lo
 make cert
 ```
 
-Questo crea `server.crt` e `server.key` nella root del progetto. **Non committateli**: contengono una chiave privata, e vanno rigenerati da chi clona il repository.
-
+Questo crea `server.crt` e `server.key` nella root del progetto. 
 ---
 
 ## Avvio del server
